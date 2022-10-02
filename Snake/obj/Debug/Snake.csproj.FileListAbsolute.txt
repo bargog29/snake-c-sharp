@@ -1,0 +1,36 @@
+D:\Atestat\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Atestat\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\Atestat\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\Atestat\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Atestat\Snake\Snake\Snake\obj\Debug\Snake.BSnake.resources
+D:\Atestat\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Atestat\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+D:\Atestat\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\Atestat\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\georg\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\georg\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\georg\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\georg\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\georg\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\georg\Desktop\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\georg\Desktop\Snake\Snake\obj\Debug\Snake.BSnake.resources
+C:\Users\georg\Desktop\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\georg\Desktop\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\georg\Desktop\Snake - BGM\Snake\bin\Debug\Snake.exe.config
+C:\Users\georg\Desktop\Snake - BGM\Snake\obj\Debug\Snake.exe
+C:\Users\georg\Desktop\Snake - BGM\Snake\obj\Debug\Snake.pdb
+C:\Users\georg\Desktop\Snake - BGM\Snake\bin\Debug\Snake.exe
+C:\Users\georg\Desktop\Snake - BGM\Snake\bin\Debug\Snake.pdb
+C:\Users\georg\Desktop\Snake - BGM\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\georg\Desktop\Snake - BGM\Snake\obj\Debug\Snake.BSnake.resources
+C:\Users\georg\Desktop\Snake - BGM\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\georg\Desktop\Snake - BGM\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\bin\Debug\Snake.exe.config
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\obj\Debug\Snake.exe
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\obj\Debug\Snake.pdb
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\bin\Debug\Snake.exe
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\bin\Debug\Snake.pdb
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\obj\Debug\Snake.BSnake.resources
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\georg\Desktop\Baranga George - Marius\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
